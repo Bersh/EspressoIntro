@@ -3,4 +3,5 @@
     <string name="welcome_text">Hello World!</string>
     <string name="txt_start_list1">Start list activity 1</string>
     <string name="txt_start_list2">Start list activity 2</string>
+    <string name="txt_start_edit">Start edit activity</string>
 </resources>

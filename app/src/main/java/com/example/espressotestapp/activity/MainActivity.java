@@ -33,6 +33,13 @@ public class MainActivity extends AppCompatActivity {
 				(new Thread(new SleepAndStartListScreen())).start();
 			}
 		});
+
+		findViewById(R.id.btn_start_edit).setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View view) {
+				startActivity(new Intent(MainActivity.this, EditActivity.class));
+			}
+		});
 	}
 
 	@Override

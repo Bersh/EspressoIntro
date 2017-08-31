@@ -1,6 +1,5 @@
 package com.example.espressotestapp.exercise;
 
-//TODO Freestyle exercise
 public class RegressionTest1 {
 	/*
 	TODO write a test which will:
